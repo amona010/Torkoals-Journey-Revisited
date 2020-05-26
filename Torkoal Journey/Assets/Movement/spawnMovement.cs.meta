@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 87676bc76efbe354baf8f01fbabe2a0f
+timeCreated: 1506822323
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - enemyBag: {fileID: 1929303021611670, guid: 1b4ef861c6076394bb76a75cfcc80a5f, type: 2}
+  - enemyBottle: {fileID: 1639765956530262, guid: d669177742144c842bd5508e19cb860f,
+      type: 2}
+  - dolphin: {fileID: 1235067458674084, guid: e15de7af738d13646a8abd52900cf948, type: 2}
+  - gull: {fileID: 1235067458674084, guid: 451ca801993b84a4f80adba24297ca2c, type: 2}
+  - rings: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
