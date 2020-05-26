@@ -1,5 +1,5 @@
 # Torkoal 
-// C# Code. In Zip file, Separate files.
+// C# Code
 
 // Boundary Script.cs 
 
