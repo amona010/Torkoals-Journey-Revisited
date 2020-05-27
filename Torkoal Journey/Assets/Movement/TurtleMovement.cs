@@ -9,12 +9,10 @@ public class TurtleMovement : MonoBehaviour
 
     public float speed = 1;
     public int score = 0;
-    public GameObject gameOver;
     public Text userScore;
 
     void Start()
     {
-        gameOver.SetActive(false);
         userScore.text = "Score: " + score;
         
     }
@@ -39,7 +37,6 @@ public class TurtleMovement : MonoBehaviour
         if (col.gameObject.tag == "Enemy")
         {
             gameObject.SetActive(false);
-            gameOver.SetActive(true);
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         }
         else

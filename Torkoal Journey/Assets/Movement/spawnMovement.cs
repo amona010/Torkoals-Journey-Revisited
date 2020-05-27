@@ -18,7 +18,7 @@ public class spawnMovement : MonoBehaviour
 
         int type = Random.Range(1, 7);
 
-        spawnPos = new Vector2(4, Random.Range((float)-2.20, (float)2.20));
+        spawnPos = new Vector2(4, Random.Range((float)-2.05, (float)2.05));
 
         if(type == 1)
         {
