@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{5B622C2D-D415-0EFC-DF6C-5A20B51B8717}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Movement/EnemyMovement.cs">
+    <Files>
+      <File FileName="Assets/Movement/TurtleMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Movement/EnemyMovement.cs" Line="27" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7410ed73-6358-4160-b4fa-84f6f3bedcd0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

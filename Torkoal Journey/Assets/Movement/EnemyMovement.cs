@@ -24,7 +24,7 @@ public class EnemyMovement : MonoBehaviour {
     {
         if (col.gameObject.tag == "Player")
         {
-            gameObject.SetActive(false);
+            Destroy(gameObject);
         }
 
     }
